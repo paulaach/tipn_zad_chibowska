@@ -1,0 +1,33 @@
+Zadanie 4-1
+
+dane: 
+zbiór mpg dostêpny razem z paczk¹ ggplot2
+234 obs. of  11 variables
+234 obserwacje na 11 zmiennych
+
+
+pytania i odpowiedzi:
+
+Ile jest zmiennych w zbiorze?
+W zbiorze znajduje siê 11 zmiennych.
+
+Ile jest obserwacji w zbiorze?
+Zbiór zawiera 234 obserwacje.
+
+Co oznacza parametr engine displacement? Co oznacza miles per gallon?
+Parametr "engine displacement" (wg s³ownika motoryzacyjnego) oznacza pojemnoœæ silnika.
+Parametr "miles per gallon" to okreœlenie dla kategorii spalanie (zu¿ycie) paliwa, oznacza mil na galon (1 mpg to 2,35 l/km)
+
+Co oznaczaj¹ poszczególne zmienne? Zrób listê zmiennych wraz z krótkim opisem, co one oznaczaj¹.
+
+ 1. manufacturer : manufacturer - producent
+ 2. model        : model name - model samochodu 
+ 3. displ        : engine displacement - pojemnoœæ silnika
+ 4. year         : year of manufacture - rok produkcji
+ 5. cyl          : number of cylinders - liczba cylindrów
+ 6. trans        : type of transmission - rodzaj skrzyni biegów
+ 7. drv          : type of drivetrain - uk³ad napêdowy samochodu
+ 8. cty          : city miles per gallon - zu¿ycie paliwa (jazda miejska)
+ 9. hwy          : highway miles per gallon - zu¿ycie paliwa (w trasie)
+ 10. fl          : (fl) fuel type - rodzaj paliwa
+ 11. class       : "type" of car - rodzaj / klasa samochodu
