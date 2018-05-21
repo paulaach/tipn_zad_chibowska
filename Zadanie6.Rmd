@@ -1,0 +1,180 @@
+---
+title: 'Ranking filmów, które są ze świata - top 3 z gatunku: filmy familijne'
+author: "Paula Chibowska"
+date: "13 maja 2018"
+output: html_document
+theme: spacelab
+highlight: espresso
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+  
+
+## Filmy Familijne (_Top trójka_)
+
+Brak pomysłów, brak kreatywności. Proszę wybaczyć. Tematyka neutralna. Dokument szary, lichy i banalny. 
+
+Czerpałam z tekstów z sieci, materiałów znalezionych, uprzednio zamieszczonych przez innych. Nie jestem autorką żadnej z recenzji. 
+  
+Zaznaczę tylko, że osobiście widziałam wszystkie filmy i zgadzam się z wybranymi, cytowanymi recenzjami (_czyt:. podzielam przytaczane opinie_). 
+  
+
+Ranking, z którego korzystałam : <http://www.filmweb.pl/ranking/film/Familijny/8>.
+
+
+---
+
+#### _**Filmowe popołudnia albo wieczory, piżamowe movie night, niedzielne poranki z ulubionymi bajkami._ Kto z nas nie lubi usiąść wygodnie na kanapie i obejrzeć fajnego filmu z rodziną? 
+Wspólne oglądanie dobrych familijnych filmów - 
+Każdy z nas przez to przechodzi, każdy ma swoje ulubione, które może oglądać nawet po kilka razy. Jakie filmy familijne oglądamy najczęściej ? 
+Na podium, według portalu filmweb.pl, znajdują się**_:
+
+
+  * **Król Lew (1994)**
+  * **Coco (2017)**
+  * **Sekrety morza (2014)**
+    
+
+---
+
+
+####**1. Król Lew**
+  
+  _**Król lew**_ 
+  
+  > "(...)      
+  > Można śmiało stwierdzić iż _Król Lew_ jest ponadczasowym dziełem i zdecydowanie należy do czołówki filmów stworzonych przez studio Walta Disneya. Bawi i uczy dzieci, a także dorosłych już od blisko 24 lat, od roku 1994. Jestem przekonana, że każdy zna piosenkę „Hakuna Matata”, która mimo że składa się z dwóch obcojęzycznych słów, to jednak potrafi poprawić humor nawet największemu mrukowi. Jednak co spowodowało, że dorośli już ludzie z łezką w oku wspominają obejrzaną za młodu bajkę?     
+  > Historia nie należy do zbyt skomplikowanych. Opowiada o losach lwa Simby, syna króla Lwiej Skały. Przez podstęp swojego wuja Skazy zostaje on uznany winnym śmierci swojego ojca Mufasy. Lwiątko cudem ucieka przed oprawcami i dorasta wraz z dwójką przyjaciół: guźcem Pumbą i surykatką Timonem. W odpowiednim czasie Krąg Życia upomina się o Simbę.       
+  > Za każdą bajką stworzoną w studiu Walta Disneya miała iść nie tylko piękna historia, ale także istotny morał albo nawet kilka, które miały zmusić dzieci do refleksji, nauczyć czegoś ważnego i zapisać się w pamięci. Tak też było w przypadku Króla Lwa. Roger Allers i Rob Minkoff – reżyserzy, wraz z całą masą scenarzystów, rysowników i pomysłodawców postawili w pewien sposób na prostotę, dzięki czemu wyraźnie widać każdą naukę, którą chcieli przekazać małemu widzowi.      
+  > Jest to widocznie w odbiorze bohaterów. Już na pierwszy rzut oka widać, kto zajmuje jakie miejsce w hierarchii i jakie kierują nim pobudki. Postaciom negatywnym przypisane są ciemne kolory, ostre kształty, a także mroczne spojrzenie. Łatwo to zaobserwować porównując ojca Simby – Mufasę oraz stryja młodego lwa, a brata króla – Skazę. Ciało Mufasy, mimo że potężne, jest zarysowane niezwykle miękko, każda część jest przyjemnie obła i pokryta ciepłymi, jasnymi kolorami. Gęsta, czerwona grzywa ukazuje wysoką pozycję w hierarchii jaką zajmuje ojciec Simby. Skaza został przedstawiony całkiem odwrotnie. Ciało lwa jest mniejsze i bardziej wątłe, rysy niezwykle ostre, a tonacje barw ciemne. Czarna grzywa nadaje postaci agresywności, a także kojarzy się z niezbyt przyjemnymi emocjami. Od razu widać, że to będzie właśnie ta postać, przez którą w historii nastąpi zmiana na gorsze o 180 stopni.      
+  > Odpowiednie wykorzystanie palety barw widać także w prezentacji świata. Kraina mlekiem i miodem płynąca jest przedstawiona w niezwykle kolorowy oraz przyjemny dla oka sposób. Natomiast  miejsca, gdzie panują zniszczenie, głód i klęska są szare, ponure i bez życia. 
+  > Muzyka w filmach Disneya zawsze zajmowała specjalne miejsce. Zgodnie z definicją muzyki filmowej i w Królu Lwie ma ona za zadanie budować nastrój, opisywać w pewien sposób sceny w filmie, interpretować wiele zachowań bohaterów, ale przede wszystkim wyrażać emocje i dopełniać obraz filmowy. Muzyka Hansa Zimmera nie tylko podkreśla czy mamy do czynienia ze sceną wesołą, podniosłą czy romantyczną, ale także ułatwia dzieciom zrozumienie sensu bajki poprzez nadanie sceną odpowiedniego charakteru. Nie wolno zapomnieć o flagowych piosenkach studia Disneya czyli o „Circle of Life”, „I just can’t wait to be king”, „Can you feel the love tonight” czy też „Hakuna Matata”. A jak wiadomo wszystkie dzieci uwielbiają piosenki. Są piękne, daje się je łatwo zapamiętać i w krótki, aczkolwiek przyjemny sposób opisują fabułę _Króla Lwa_. Do każdej z nich słowa napisał Tim Rice, a muzykę ułożył Elton John. Ich śpiewne dzieła zdecydowanie wpadają w ucho dzieciom. Tak jak cały film, tak i one w swojej prostocie dotykają naprawdę ważnych tematów, jak miłość, wiara w siebie, czy też sens istnienia. Nic więc dziwnego, iż ten zgrany duet dostał Nagrodę Akademii Filmowej za piosenkę „Can you feel the love tonight”, a Hans Zimmer za całą muzykę w bajce. W jednej z piosenek jest nauka dotycząca miłości i towarzyszących jej uczuć: „Kochać to pokonać troski swe, przetrwać pośród burz”. Innymi słowy. w każdej relacji pojawiają się gorsze momenty, jednak sztuką jest je przetrwać razem i wyjść z nich zwycięsko.       
+  > Jak na film dla dzieci przystało, _Król Lew_ poza swoim graficznym i muzycznym pięknem, niesie ze sobą bardzo ważną wiedzę oraz pewne wartości. Jedną ze scen ukazujących to w piękny sposób jest spotkanie dorosłego już Simby z duchem jego ojca, kiedy to Mufasa mówi do syna, że ten wyparł się przeszłości i o nim zapomniał, przez co odtrącił tych, którzy brali udział w jego życiu. Simba zdaje sobie sprawę, iż opuścił swoje miejsce w Kręgu Życia i musi wrócić, aby powtórnie je zająć. Mufasa tymi słowy uczy widzów, że trzeba zawsze być sobą i nie poddawać się mimo największych porażek, brać odpowiedzialność za swoje czyny i po części nie przejmować się tym, co sądzą o nas inni. Studio Disneya nie ukrywa, że posłużyło się tutaj motywem z _Hamleta_ Williama Shakespeare’a. Jest to bardzo ważna rada dla młodego człowieka, który właśnie za pomocą filmów, książek i wiedzy przekazanej przez rodzinę uczy się tak naprawdę, co jest ważne w życiu i, co czyni nas dobrymi ludźmi.       
+  > Mufasa, jako król Lwiej Skały, musi wykazywać się nie tylko siłą, ale także mądrością. Tłumaczy synkowi od małego na czym polega sens istnienia, a także, że odwaga, to nie jest narażanie się bez potrzeby. Dodatkowo podkreśla, że nawet ktoś taki jak on ma wady, słabości, nie zawsze jest w formie, może mieć gorszy dzień. Simba i Mufasa pięknie przedstawiają relacje ojca z dzieckiem. Król jest niezwykle troskliwy, ale i konsekwentny wobec swojego syna, a także uczy go, co jest tak naprawdę istotne. Bardzo wielu dorosłych już ludzi kojarzy ten film właśnie przez tą niesamowitą więź, która uczy małych i dużych.       
+  > Warto także dodać, iż _Król Lew_ jest pierwszą bajką Disneya, w której przedstawiono śmierć jednego z głównych bohaterów. Dzieciom ciężko jest zrozumieć, że ktoś umiera. Jest to jedna z trudniejszych kwestii, jaką trzeba wyjaśnić maluchom. Często ciężko to ubrać w odpowiednie słowa, a jeśli nawet się uda, to są one ciężko pojmowane. Bo jak wytłumaczyć, iż nasz czas jest ograniczony i kiedyś odejdziemy, kiedy sami mamy z tym problem? Disney wykorzystał do tego postać ojca Simby, Mufasę. Przez intrygę swojego brata, Mufasa mimo błagań zostaje strącony ze skały na pędzące stado antylop gnu. Następnie widać ciało króla leżące bezwładnie, bez życia. Mimo płaczu i krzyków małego lwa Simby, jego ojciec nie reaguje. Odszedł i nie wróci. Nie żyje. Tak właśnie scenarzyści postanowili przedstawić śmierć - jako coś, co jest nagłe i może spotkać czy to silnego czy słabego. Ten moment, mimo że jest wiele innych tak wzruszających scen to potrafi wycisnąć łzy nawet z najtwardszej osoby. Zwłaszcza iż dosłownie parę minut wcześniej jest przedstawiona zabawa ojca z synem, ich niesamowita relacja, która będzie w pewnie metafizyczny sposób kontynuowana dopiero za jakiś czas. Niezwykle znaczącą postacią jest także pawian Rafiki, mędrzec i szaman Lwiej Skały. Dla wielu wydaje się on tylko głupią małpą, lecz jego nauki, mimo że przedstawione w prześmiewczy sposób są niezwykle ważne. Rafiki, uderzając Simbę kijem w głowę mówi - nie warto żyć przeszłością, używając słów „Przeszłość zawsze boli, można w nią uciekać lub wyciągnąć z niej jakieś wnioski” i wtedy ponownie próbuje uderzyć młodego lwa, jednak ten się uchyla. Czyli wysnuł z tej historii pewną naukę. Dzieci często nie potrafią przestać żyć przeszłością, jednak dorosłym zdarza się to bardzo często.       
+  > Kolejnym ważnym elementem jest relacja Timona i Pumby z Simbą. Mimo iż pochodzą z zupełnie innych końców łańcucha pokarmowego, zwierzaki postanawiają przygarnąć i wychować lwa na swój szalony sposób. Uczą go jeść robaki, a także „Hakuna Matata”, czyli „nie martw się”, co pomaga młodemu lwiątku chociaż po części pogodzić się z przeszłością. Przyjaźń afrykańskich zwierzaków jest z pewnością żartobliwa i jak wiemy w realnym świecie niemożliwa, jednak ilustruje, iż nie powinno się oceniać po pozorach, wadach czy też kolorze skóry (gatunku), bo możemy nieświadomie odtrącić naprawdę piękną przyjaźń albo i coś więcej.       
+  > _Król Lew_, podobnie jak _Mały Książę_ Antoine’a de Saint-Exupéry’ego jest z pewnością parabolą. Coś, co na pierwszy rzut oka wydaje się niezwykle proste, nawet w sposobie wypowiedzi, okazuje się zawierać wachlarz naprawdę ważnych nauk, pomagających zrozumieć funkcjonowanie człowieka i całego jego życia wokół. Tematy takie jak zdrada, miłość, akceptacja wbrew wielu różnicom, czy też pogodzenie z przeszłością, mimo że narysowane i pokolorowane, są wytłumaczone lepiej niż w niejednym poradniku. Maluchy z pewnością są w stanie bardzo dużo się nauczyć i spróbować wprowadzić te nauki w życie, zwłaszcza, że mają własny, nierzadko bardziej kolorowy i mądrzejszy sposób rozumowania świata niż dorośli. Ich pomysły, a także podejście do wielu spraw zawstydzają niejedną osobę z wieloletnim życiowym doświadczeniem.      
+  > _Król Lew_ z początku miał być bajką tylko i wyłącznie dla dzieci, jednak z czasem okazało się, iż także i dorośli odnajdują w nim pewną instrukcję jak żyć. Dzieje się tak dlatego, iż treść skonstruowana dla dzieci musi być przedstawiona w może niekoniecznie bardziej okrojony, ale przejrzystszy sposób niż dla starszego człowieka. Jednak właśnie to ułatwienie powoduje większe zrozumienie u dorosłych. Przecież oni też kiedyś byli mali i rozumowali w taki sposób. A w byciu dojrzałym człowiekiem jest jedna prawda, którą powtórzy kiedyś każdy. Że jednak dobrze było być dzieckiem. (...)" 
+  
+Tekst jest fragmentem artykułu ze strony `nietylkogry.pl` - _Król lew jako inspiracja jak żyć_; napisanego przez: 
+  Julia Lachowicz 
+
+**Zwiastun [można sobie przypomnieć](https://www.youtube.com/watch?v=eMcOtzBj17o).**
+  
+![](https://ocdn.eu/pulscms-transforms/1/0FnktkpTURBXy9mN2JhZmMxNzlhMzllZDM4MTBlM2YwMGRlODM4YzExOC5wbmeRkwLNAyYA)
+
+
+---
+
+#### **2. Coco**
+
+  _**Coco**_
+  
+  > "(...)      
+  Disney i współpracujący z nim Pixar to klasa najwyższa, jeśli chodzi o filmy animowane. Jak każdej, zdarzają jej się wypadki przy pracy, trudno jednak określić Toy Story czy Gdzie jest Nemo inaczej niż świetne kreskówki. Nienachalne, prawdziwie bajkowe, pełne fajnego humoru i całkiem niezłych historii.
+(...)     
+_Coco_ to Disney i Pixar w najwyższej formie. Fantastyczna przygoda, niezależnie od tego ile masz lat. Film opowiada historię młodego Miguela, potomka meksykańskiej rodziny, która od pokoleń zajmuje się szewstwem. Nie ma jednak ochoty stać się częścią rodzinnego interesu. Zamiast szyć buty woli zając się muzyką i być taki, jak jego idol. A więc Ernesto de la Cruz, Najwspanialszy Muzyk na Świecie. Jest tylko jeden problem: prapradziadek Miguela opuścił swój dom, by robić karierę w muzyce. Złamał tym serce prapraprababci Miguela i ich córki, tytułowej Coco. Od tego czasu muzyka w rodzinie jest absolutnie zakazana.      
+Miguel jednak nie zamierza porzucać swoich marzeń. Na skutek tajemniczego zbiegu okoliczności  – podczas próby kradzieży gitary de la Cruza – przenosi się do świata zmarłych, dokładnie w dzień Dia de los Muertos, a więc meksykański odpowiednik naszych Wszystkich Świętych. W ten dzień zmarli, choć pozostają niewidoczni dla żyjących, mogą podróżować do naszego świata i spędzić czas z bliskimi, którzy jeszcze o nich pamiętają.      
+Nasz główny bohater chce skorzystać z okazji i dotrzeć do ducha samego de la Cruza, by ten nauczył go być równie wspaniałym, co on sam. Nietrudno się domyślić, i nie będzie to żadnym spoilerem, że Miguel napotka w Krainie Zmarłych również swoich przodków. Tym samym zapewne zaczyna rysować się przed waszymi oczami główna zagadka filmu: czy wygra przywiązanie do rodziny i miłość do bliskich? Czy też podążanie za pasją do tak pięknego wynalazku ludzkości, jakim jest muzyka? Jak widać, happy-end wcale nie jest tu sprawą oczywistą.       
+Nieprzewidywalna fabuła to jeden z największych, choć nie jedyny, atut filmu _Coco_.      
+Łatwo przewidzieć zakończenie większości bajek. Przecież wiemy, że skończy się dobrze. Przecież wiemy, że główny bohater osiągnie swój cel. Przyjemność ma nam zapewnić obejrzenie na filmie sposobu, w jaki to uczyni i poznanie wydarzeń po drodze. Coco nie tylko nie ma oczywistego zakończenia (i gwarantuję, że nawet na sam koniec i tak was ono zaskoczy). Sam scenariusz jest pełen zwrotów akcji i niespodziewanych zdarzeń.       
+Co bardzo piękne, nie jest on szczególnie skomplikowany. To nadal bajka dla dzieci, która powinna być zrozumiała dla wszystkich. Cudotwórcy z Pixara przeszli jednak samych siebie. Co rusz jesteśmy zaskakiwani czymś nowym, a zarazem nigdy nie czujemy się zagubieni w całej historii. Razem z głównym bohaterem przeżywamy świetną przygodę, nie wiedząc, co nas czeka za chwilę.       
+_Coco_ bardzo umiejętnie też gra na emocjach. Nie wstydzę się przyznać, że zdarza mi się wzruszać na filmach i reagować na nie emocjonalnie. Zdarza się to jednak relatywnie rzadko, gdy filmowcy szczególnie umiejętnie zagrają na emocjach. Na seansie Coco powstrzymywałem się od śmiania na głos z gagów (by nie przeszkadzać innym), ale też niejednokrotnie czułem potężną gulę w gardle i pieczenie w oczach. To cecha najlepszych filmów, nie tylko animowanych.     
+A skoro już o animacji mowa, to tu _Coco_ nie zaskakuje. Bo to przecież Pixar.      
+Wizualnie film jest absolutnie wzorowy. Jakość tego, co jest prezentowane na ekranie, budzi ogromny podziw. Muszę jednak przyznać, że Coco wygląda świetnie nawet jak na wyśrubowane standardy Pixara. Niektóre kadry złożonością i rozmachem można spokojnie zestawić z tymi z Valeriana czy innych filmów tej wizualnej klasy.      
+(...)       
+Cały film jest jak oddech świeżego powietrza.     
+Jak zawsze w przypadku filmów, również i _Coco_ nie przypadnie każdemu do gustu. To nadal bajeczka. Jeśli zupełnie wyrośliście z tej formy rozrywki, to nie jest raczej film dla was. Jeżeli nie reagujecie emocjonalnie na filmy, również możecie się rozczarować. Cała reszta: marsz do kina. To jedna z lepszych rzeczy, jakie Pixar wydał od wielu lat. A może i cały Disney.      
+(...)"
+
+Tekst jest fragmentem recencji ze strony `spidersweb.pl` - _Poszedłem na film dla dzieci, wyszedłem wzruszony i rozmarzony. Coco_; napisanej przez: Maciej Gajewski
+
+**Zwiastun [zapraszam do obejrzenia](https://www.youtube.com/watch?v=WEeFtmQAGTA).**
+  
+![](http://pelnasala.pl/wp-content/uploads/2017/12/Coco1.jpg)
+
+
+---
+
+#### **3. Sekrety morza**
+
+  _**Sekrety morza**_
+  
+  > "(...)      
+  Morze kiedyś było czymś tajemniczym i fascynującym ludzi. Było bezpośrednim źródłem zdobywania żywności, panoramą wielu długich podróży, a także sposobem na odkrywanie nowych lądów. Chociaż ten etap wydaje się już dawno zakończony, ponieważ na mapie świata nie ma już miejsca na białe plamy, morza i oceany nadal kryją przed nami swoje sekrety. Ich skala jest nieznana, jednak wydaje się, że ludzie nieco zapomnieli już o magii głębin i przypominają sobie o niej jedynie wtedy, gdy na jakąś plażę zostanie wyrzucone nieznane stworzenie, nowy lub bardzo rzadki i fascynujący gatunek, na chwilę skupiający naszą uwagę. Podobną siłę oddziaływania ma animacja _Sekrety morza_.      
+Losy pewnej skromnej rodziny, żyjącej na wyspie z latarnią morską, splatają się tutaj ze światem baśni i legend. Fantastyczne stworzenia tworzą alegorię relacji pomiędzy poszczególnymi członkami rodziny. Jest to bardzo wzruszająca i ciepła historia, która jest jednak naznaczona pewną dozą tragedii, dlatego nie jestem przekonany czy dzieci wyniosą z tej opowieści tyle zabawy ile dorośli wniosków. Rozstrzygnie to oczywiście indywidualna wrażliwość każdego z oglądających. Jedno jest jednak pewne: w czasach gdy triumf święci tak miałka bajka, jak disneyowska Kraina lodu, Sekrety morza zasługuje na o wiele więcej uwagi i poklasku.       
+Historia jest dość prosta i przypomina najlepsze, klasyczne bajki, takie jak ta o Jasiu i Małgosi. Ben i Sirsza to rodzeństwo, które niezbyt się dogaduje, dosłownie – dziewczynka nie potrafi mówić. Ben nie jest zbyt dobrym starszym bratem, traktuje siostrę jako zło konieczne, a ich ojciec Conor, jest zagubionym człowiekiem, który nie radzi sobie z dziećmi i własnym bólem. Sytuacji, mimo szczerych chęci, nie polepsza babcia, która jest bardzo zaborcza, wtrąca się w nie swoje sprawy i ma zupełnie inną wizję tego, jak powinno wyglądać życie dzieci Conora.       
+Wszystko zmienia się, gdy Sirsza odkrywa pozostawioną przez matkę muszlę i zaczyna na niej grać. Odkrywa wtedy zupełnie inny świat, który przyciąga ją, niczym światło przyciąga ćmę. Sirsza staje się mityczną selki, której nieocenioną rolą w magicznym świecie, jest śpiewanie pieśni morza. Ben wyrusza z nią w podróż, która zmieni ich relacje, a także przysporzy im sporo niesamowitych przygód i pozwoli spotkać niezwykłe stworzenia, o których istnieniu do tej pory słyszeli tylko z legend. Ich wiernym towarzyszem jest ich przesympatyczny i odważny pies o imieniu Ku.       
+_Sekrety morza_ od strony technicznej czaruje i olśniewa. Takie animacje to w dzisiejszych czasach perełki, nad którymi pochylam się niemal z nabożeństwem. Opowiadana historia jest uniwersalna, jej przekaz jest nieskażony współczesnym brudem tego świata, a w dodatku kraina w której swoje przygody przeżywają Ben i Sirsza, jest niewymownie piękna. Rysunki sprawiają wrażenie żywych organicznych stworzeń, poruszających się w zgodzie z naturą. Kadry są jak zaczarowane ruchome obrazki, a niektóre ujęcia bardzo nietypowe, co dodaje oryginalności tej baśni. Ważną rolę odgrywa światło i cień, które nie tylko budują intrygujący klimat i podkreślają kluczową rolę poszczególnych postaci i przedmiotów, ale oddzielają od siebie dwa światy, niejako walczące ze sobą na ekranie. Podziwiając ten taniec mroku i jasności, można wpaść w wir wizualnych doznań, które są po prostu piękne. Czasami przypomina to patrzenie się na płatek śniegu pod mikroskopem, patrzenie się w gwiazdy w bezchmurną noc, lub podziwianie żarzących się kawałków drewna lub węgla. Obraz jest magnetyzujący i w dużej mierze, to przy jego użyciu opowiadana jest ta przypowieść.       
+Ciekawie potraktowano zasady przedstawiania perspektywy, która w pewnych momentach wydaje się być celowo zaburzona, głównie przy pokazywaniu przyziemnych elementach świata, takich jak agrestowe babeczki babci czy paczki z prezentami urodzinowymi.      
+Bardzo udanie wypada też ścieżka dźwiękowa, z zestawem bardzkich piosenek o morzu i nie tylko. Celtyckie wpływy w Sekrety morza wykraczają poza muzykę, jednak to w niej są najwyraźniejsze. Dźwięk morskich fal, mandoliny, skrzypek i fletu jest wszechobecny w przygodzie rodzeństwa i ich psa, tworząc wspaniałe tło dla ich poczynań. Żywe i niesamowite, z miejsca klasyczne, jednak nad wyraz współczesne. Fani folkowych klimatów będą usatysfakcjonowani.       
+(...) Ręcznie rysowane tła i pięknie animowane postacie robią duże wrażenie. To jedna z tych bajek, która obejrzana w dzieciństwie będzie za tobą chodzić już do końca życia, a gdy o niej zapomnisz i przypadkowo trafisz na nią podczas dorosłego życia, będzie ci wstyd, ale jednocześnie wypełni cię niesamowite poczucie szczęścia, takie samo jak przy pierwszym obejrzeniu _Sekrety morza_.       
+(...)"
+
+Tekst jest fragmentem recencji ze strony `czarnadziura.weebly.com` - _Sekrety morza_; napisanej przez: Szymon Szeliski
+
+**Zwiastun [zachęcam do zerknięcia](https://www.youtube.com/watch?v=7Lj-vqlmiAY&t=3s).**
+  
+![](http://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/splay/2015/05/sekrety-morza-2.jpg)
+
+
+---
+
+---
+
+  
+#### **_Tabelka_. Subiektywna trójka najlepszych filmów familijnych** `zdaniem użytkowników portalu filmweb.pl`
+
+| Tytuł | Miejsce w rankingu #Top | Średnia ocena | Liczba głosów |
+  |-----------------------|---------------------|-------------|--------------------------------|
+  | Król lew | 22 | 8,24 | 515 039 głosów |
+  | Coco | 65 | 8,22 | 47 557 głosów |
+  | Sekrety morza | 193 | 8,07 | 29 442 głosy |
+  
+  
+
+---
+
+---
+
+
+      
+  #_Tego nie umiałam ani wymyśleć, ani też wpleść jakoś w spójny tekst ..._  
+  `Przepraszam :)`
+
+Code chunki:
+
+```{r cars}
+summary(cars)
+```
+Plots:
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+ 
+ ```{r echo = FALSE} 
+ library(tidyverse)
+ ggplot(data = mpg, aes(x = class, y = displ, fill = class)) +
+  geom_boxplot() +
+  coord_flip() +
+  labs(title = "Zależność pojemności silnika od klasy samochodu", x = "klasa", y = "pojemność silnika") + 
+  theme_classic()
+ ```
+
+ ```{r echo = TRUE }
+drugi_rok <- 6 + 22*24 + 9*30*24
+kolejne_lata <- 12*30*24
+ostatni_rok <- 9*30*21
+ile_pozostalo <- drugi_rok + 2*kolejne_lata + ostatni_rok
+paste("Studia", "skończę", "za", ile_pozostalo, "godzin.")
+ ```
+ 
+ ```{r echo = TRUE }
+ library(tidyverse)
+ data(diamonds)
+ select(diamonds, color)
+ ```
